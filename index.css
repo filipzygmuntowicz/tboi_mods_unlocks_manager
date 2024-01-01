@@ -1,0 +1,194 @@
+@font-face {
+    font-family: "CustomFont";
+    src: url('./static/IsaacGame.ttf');
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html {
+    font-family: 'CustomFont', Arial;
+}
+body {
+    background-color: rgb(233,218,223);
+}
+#main-container {
+    display:flex;
+    flex-direction: row;
+    position:absolute;
+    width:100%;
+    height:100%;
+    
+}
+#characters {
+    padding-top: 10%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+#left-side {
+    position: relative;
+    width: 60%;
+    padding: 5rem;
+}
+#doodles {
+    position: relative;
+    left: 70%;
+    top: 5%;
+    z-index: -2;
+}
+#whoami {
+    position: absolute;
+    z-index: -1;
+    width: 90%;
+    top: 0;
+    height: auto;
+}
+#whoamiText {
+    position: absolute;
+    z-index: -1;
+    top: 7%;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    font-stretch: ultra-expanded;
+    color: rgb(55,43,45);
+}
+#right-side {
+    position: relative;
+    width: 40%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: visible;
+}
+.character {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.7rem;
+    cursor: pointer;
+}
+#list {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background: url('./static/completion_list_blank.png') 0px 0px;
+}
+#heart {
+    position: absolute;
+    left: 25%;
+    top: 12%;
+    width: 17px;
+    height: 17px;
+    background: url('./static/completion_widget.png') -63px -95px;
+    display: none;
+}
+#bossRush {
+    position: absolute;
+    left: 19%;
+    top: 44%;
+    width: 17px;
+    height: 17px;
+    background: url('./static/completion_widget.png') -80px -95px;
+    display: none;
+}
+#satan {
+    position: absolute;
+    left: 30%;
+    top: 28%;
+    width: 17px;
+    height: 17px;
+    background: url('./static/completion_widget.png') -47px -95px;
+    display: none;
+}
+#isaac {
+    position: absolute;
+    left: 40%;
+    top: 22%;
+    width: 17px;
+    height: 17px;
+    background: url('./static/completion_widget.png') -31px -95px;
+    display: none;
+}
+#blueBaby {
+    position: absolute;
+    left: 56%;
+    top: 26%;
+    width: 16px;
+    height: 16px;
+    background: url('./static/completion_widget.png') 0px -95px;
+    display: none;
+}
+#greedier {
+    position: absolute;
+    left: 72%;
+    top: 22%;
+    width: 16px;
+    height: 16px;
+    background: url('./static/completion_widget.png') -145px -95px;
+    display: none;
+}
+#unlocksDiv {
+    display: flex;
+    flex-direction: column;
+    display: none;
+    padding-top: 10%;
+}
+#characterNameDiv {
+    text-align: center;
+    padding-left: 0.2rem;
+    font-size: 0.7rem;
+}
+#unlockMarksUl {
+    font-size: 0.85rem;
+    list-style-type: none;
+    padding-top: 12%;
+}
+em {
+    color: rgb(54, 54, 54);
+}
+li {
+    display: flex;
+    align-items: start;
+    gap: 0.15rem;
+    padding-bottom: 0.25rem;
+}
+#headerDiv {
+    position: relative;
+    text-align: center;
+    font-size: 1.6rem;
+    color: rgb(55,43,45);
+}
+#paper {
+    width: 100%;
+    height: 100px;
+}
+#buttonReset {
+    cursor: pointer;
+    position: absolute;
+    top: 32%;
+    width: 50%;
+    left: 0;
+}
+#buttonUpdate {
+    cursor: pointer;
+    position: absolute;
+    top: 32%;
+    width: 50%;
+    left: 50%;
+}
+#buttonUpdate:hover, #buttonReset:hover {
+    color: rgba(76, 59, 62, 0.854);
+    font-size: 1.65rem;
+}
+#todolist {
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    top: 0;
+    height: auto;
+}

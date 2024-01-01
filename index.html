@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <link rel="stylesheet" href="./index.css">
+    <title>Hello World!</title>
+  </head>
+  <header>
+    <div id="headerDiv">
+      <img id="paper" src="./static/paper.png">
+      <div id="buttonReset">
+        <p>RESET UNLOCKS</p>
+      </div>
+      <div id="buttonUpdate">
+        <p>APPLY TO MOD</p>
+      </div>
+    </div>
+  </header>
+  <body>
+    <div id="main-container">
+        <div id="left-side">
+            <div id="characters">
+              <img id="whoami" src="./static/whoami.png">
+              <p id="whoamiText">WHO AM  I ?</p>
+            </div>
+            <img id="doodles" src="./static/doodles.png">
+        </div>
+        <div id="right-side">
+          <img id="todolist" src="./static/todolist.png">
+            <div id="unlocksDiv">
+                <div id="characterNameDiv">
+                  <p id="characterName"></p>
+                </div>
+                <div id="list">
+                  <div id="heart"></div>
+                  <div id="bossRush"></div>
+                  <div id="satan"></div>
+                  <div id="isaac"></div>
+                  <div id="blueBaby"></div>
+                  <div id="greedier"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </body>
+  <script src="./renderer.js"></script>
+</html>
