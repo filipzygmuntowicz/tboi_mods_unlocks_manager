@@ -5,35 +5,51 @@
     "y": 290,
     "unlocked": {
       "status": 0,
-      "item": "Broken Heart"
+      "item": [
+        "Broken Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Basement Key"
+      "item": [
+        "Basement Key"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "UNO Reverse Card"
+      "item": [
+        "UNO Reverse Card"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "Ordinary Life"
+      "item": [
+        "Ordinary Life"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Rubik's Cube"
+      "item": [
+        "Rubik's Cube"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Red Bomber"
+      "item": [
+        "Red Bomber"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Spindown Dice Shard"
+      "item": [
+        "Spindown Dice Shard"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Broken Baby"
+      "item": [
+        "Broken Baby"
+      ]
     }
   },
   {
@@ -42,35 +58,52 @@
     "y": 336,
     "unlocked": {
       "status": 0,
-      "item": "Dauntless Heart"
+      "item": [
+        "Dauntless Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Key To The Heart"
+      "item": [
+        "Key To The Heart"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Queen Of Diamonds"
+      "item": [
+        "Queen Of Diamonds"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "Cherry Friends"
+      "item": [
+        "Cherry Friends"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Cookie Cutter"
+      "item": [
+        "Cookie Cutter"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Blood Vessels"
+      "item": [
+        "Blood Vessels"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Needle And Thread"
+      "item": [
+        "Needle And Thread"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Dauntless Baby"
+      "item": [
+        "Dauntless Baby",
+        "Blood Vessel"
+      ]
     }
   },
   {
@@ -79,35 +112,51 @@
     "y": 288,
     "unlocked": {
       "status": 0,
-      "item": "Hoarded Heart"
+      "item": [
+        "Hoarded Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Red Map"
+      "item": [
+        "Red Map"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Jack Of Diamonds"
+      "item": [
+        "Jack Of Diamonds"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "The Mark of Cain"
+      "item": [
+        "The Mark of Cain"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Trick Penny"
+      "item": [
+        "Trick Penny"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Sleight Of Hand"
+      "item": [
+        "Sleight Of Hand"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Bag Tissue"
+      "item": [
+        "Bag Tissue"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Heavenly Keys"
+      "item": [
+        "Heavenly Keys"
+      ]
     }
   },
   {
@@ -116,35 +165,51 @@
     "y": 337,
     "unlocked": {
       "status": 0,
-      "item": "Deceiver Heart"
+      "item": [
+        "Deceiver Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Key Knife"
+      "item": [
+        "Key Knife"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Jack of Hearts"
+      "item": [
+        "Jack of Hearts"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "Ceremonial Blade"
+      "item": [
+        "Ceremonial Blade"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Black Doll"
+      "item": [
+        "Black Doll"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Judas' Kiss"
+      "item": [
+        "Judas' Kiss"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Sacrificial Blood"
+      "item": [
+        "Sacrificial Blood"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Funeral Services?"
+      "item": [
+        "Funeral Services?"
+      ]
     }
   },
   {
@@ -153,35 +218,51 @@
     "y": 285,
     "unlocked": {
       "status": 0,
-      "item": "Soiled Heart"
+      "item": [
+        "Soiled Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Night Soil"
+      "item": [
+        "Night Soil"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Fly Paper"
+      "item": [
+        "Fly Paper"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "Bless of the Dead"
+      "item": [
+        "Bless of the Dead"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Bag-o-Trash"
+      "item": [
+        "Bag-o-Trash"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Hand-Me-Downs"
+      "item": [
+        "Hand-Me-Downs"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Laxative"
+      "item": [
+        "Laxative"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Soiled Baby"
+      "item": [
+        "Soiled Baby"
+      ]
     }
   },
   {
@@ -190,35 +271,51 @@
     "y": 336,
     "unlocked": {
       "status": 0,
-      "item": "Curdled Heart"
+      "item": [
+        "Curdled Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Adam's Rib"
+      "item": [
+        "Adam's Rib"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Queen of Spades"
+      "item": [
+        "Queen of Spades"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "A Bird of Hope"
+      "item": [
+        "A Bird of Hope"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Tower of Babel"
+      "item": [
+        "Tower of Babel"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Ultra Flesh Kid!"
+      "item": [
+        "Ultra Flesh Kid!"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Estrogen Up"
+      "item": [
+        "Estrogen Up"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Curdled Baby"
+      "item": [
+        "Curdled Baby"
+      ]
     }
   },
   {
@@ -227,35 +324,51 @@
     "y": 383,
     "unlocked": {
       "status": 0,
-      "item": "Savage Heart"
+      "item": [
+        "Savage Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Magic Sword"
+      "item": [
+        "Magic Sword"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Jack of Clubs"
+      "item": [
+        "Jack of Clubs"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "Temper Tantrum"
+      "item": [
+        "Temper Tantrum"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Gusty Blood"
+      "item": [
+        "Gusty Blood"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Book of Judges"
+      "item": [
+        "Book of Judges"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Phantom Pains"
+      "item": [
+        "Phantom Pains"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Savage Baby"
+      "item": [
+        "Savage Baby"
+      ]
     }
   },
   {
@@ -264,35 +377,52 @@
     "y": 383,
     "unlocked": {
       "status": 0,
-      "item": "Benighted Heart"
+      "item": [
+        "Benighted Heart"
+      ]
     },
     "heart": {
-      "status": 0,
-      "item": "Angel's Crown"
+      "status": 1,
+      "item": [
+        "Angel's Crown"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Joker?"
+      "item": [
+        "Joker?"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "The Cross of Chaos"
+      "item": [
+        "The Cross of Chaos"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "A Scalpel"
+      "item": [
+        "A Scalpel"
+      ]
     },
     "blueBaby": {
-      "status": 0,
-      "item": "Book of Leviathan"
+      "status": 1,
+      "item": [
+        "Book of Leviathan"
+      ]
     },
     "greedier": {
-      "status": 0,
-      "item": "Demon Form + Fiend Fire"
+      "status": 1,
+      "item": [
+        "Demon Form + Fiend Fire"
+      ]
     },
     "all": {
-      "status": 0,
-      "item": "Cracked Cross, Dark Remnants"
+      "status": 1,
+      "item": [
+        "Cracked Cross",
+        "Dark Remnants"
+      ]
     }
   },
   {
@@ -301,35 +431,51 @@
     "y": 383,
     "unlocked": {
       "status": 0,
-      "item": "Enigma Heart"
+      "item": [
+        "Enigma Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Torn Page"
+      "item": [
+        "Torn Page"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Jack of Spades"
+      "item": [
+        "Jack of Spades"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "DNA Redactor"
+      "item": [
+        "DNA Redactor"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "A Cat In the Box"
+      "item": [
+        "A Cat In the Box"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Nerve Pinch"
+      "item": [
+        "Nerve Pinch"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Yum! + Yuck!"
+      "item": [
+        "Yum! + Yuck!"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "White Sacks"
+      "item": [
+        "White Sacks"
+      ]
     }
   },
   {
@@ -338,35 +484,51 @@
     "y": 435,
     "unlocked": {
       "status": 0,
-      "item": "Capricious Heart"
+      "item": [
+        "Capricious Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Eden's Lock"
+      "item": [
+        "Eden's Lock"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Valentine's Day Card"
+      "item": [
+        "Valentine's Day Card"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "The Book of Genesis"
+      "item": [
+        "The Book of Genesis "
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Magic Pen"
+      "item": [
+        "Magic Pen"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Magic Marker"
+      "item": [
+        "Magic Marker"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Mirrored Landscape"
+      "item": [
+        "Mirrored Landscape"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Capricious Baby"
+      "item": [
+        "Capricious Baby"
+      ]
     }
   },
   {
@@ -375,35 +537,52 @@
     "y": 287,
     "unlocked": {
       "status": 0,
-      "item": "Baleful Heart"
+      "item": [
+        "Baleful Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Piece of Chalk"
+      "item": [
+        "Piece of Chalk"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Cursed Card"
+      "item": [
+        "Cursed Card"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "Cherubim"
+      "item": [
+        "Cherubim"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Soul Bond"
+      "item": [
+        "Soul Bond"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Angel's Wings"
+      "item": [
+        "Angel's Wings"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Spiritual Reserves"
+      "item": [
+        "Spiritual Reserves"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "My Soul, Spiritual Amends"
+      "item": [
+        "My Soul",
+        "Spiritual Amends"
+      ]
     }
   },
   {
@@ -412,35 +591,51 @@
     "y": 432,
     "unlocked": {
       "status": 0,
-      "item": "Harlot Heart"
+      "item": [
+        "Harlot Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Baby Shoes"
+      "item": [
+        "Baby Shoes"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Queen of Clubs"
+      "item": [
+        "Queen of Clubs"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "Rejection"
+      "item": [
+        "Rejection"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Mother's Love"
+      "item": [
+        "Mother's Love"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Friendly Sack"
+      "item": [
+        "Friendly Sack"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Mom's ID"
+      "item": [
+        "Mom's ID"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Harlot Baby"
+      "item": [
+        "Harlot Baby"
+      ]
     }
   },
   {
@@ -449,35 +644,52 @@
     "y": 433,
     "unlocked": {
       "status": 0,
-      "item": "Miser Heart"
+      "item": [
+        "Miser Heart",
+        "Keeper's Annoying Fly"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Greed's Heart"
+      "item": [
+        "Greed's Heart"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "King of Diamonds"
+      "item": [
+        "King of Diamonds"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "2+1"
+      "item": [
+        "2+1"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Auction Gavel"
+      "item": [
+        "Auction Gavel"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Keeper's Penny"
+      "item": [
+        "Keeper's Penny"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Loaded Dice"
+      "item": [
+        "Loaded Dice"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Miser Baby"
+      "item": [
+        "Miser Baby"
+      ]
     }
   },
   {
@@ -486,35 +698,51 @@
     "y": 926,
     "unlocked": {
       "status": 0,
-      "item": "Empty Heart"
+      "item": [
+        "Empty Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Shattered Stone"
+      "item": [
+        "Shattered Stone"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "King of Spades"
+      "item": [
+        "King of Spades"
+      ]
     },
     "satan": {
-      "status": 0,
-      "item": "Sinner's Heart"
+      "status": 1,
+      "item": [
+        "Sinner's Heart"
+      ]
     },
     "isaac": {
-      "status": 0,
-      "item": "Bottomless Bag"
+      "status": 1,
+      "item": [
+        "Bottomless Bag"
+      ]
     },
     "blueBaby": {
-      "status": 0,
-      "item": "Vault of Havoc"
+      "status": 1,
+      "item": [
+        "Vault of Havoc"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Red Rune + Tainted Rocks"
+      "item": [
+        "Red Rune + Tainted Rocks"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Empty Baby"
+      "item": [
+        "Empty Baby"
+      ]
     }
   },
   {
@@ -523,35 +751,55 @@
     "y": 929,
     "unlocked": {
       "status": 0,
-      "item": "Fettered Heart"
+      "item": [
+        "Fettered Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Bone Meal"
+      "item": [
+        "Bone Meal"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "King of Clubs"
+      "item": [
+        "King of Clubs"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "Enraged Soul"
+      "item": [
+        "Enraged Soul"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Pure Soul"
+      "item": [
+        "Pure Soul"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Handicapped Placard"
+      "item": [
+        "Handicapped Placard"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Funeral Services"
+      "item": [
+        "Funeral Services"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "The Hood, Jewel Diadem, Bag of Jewels, Jewel Crawlers"
+      "item": [
+        "The Hood",
+        "Jewel Diadem",
+        "Bag of Jewels",
+        "Jewel Crawlers",
+        "Dead Weight"
+      ]
     }
   },
   {
@@ -560,35 +808,51 @@
     "y": 337,
     "unlocked": {
       "status": 0,
-      "item": "Zealot Heart"
+      "item": [
+        "Zealot Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Empty Page"
+      "item": [
+        "Empty Page"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Library Card"
+      "item": [
+        "Library Card"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "Ceiling with the Stars"
+      "item": [
+        "Ceiling with the Stars"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Quasar"
+      "item": [
+        "Quasar"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Stargazer's Hat"
+      "item": [
+        "Stargazer's Hat"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Quasar Shard"
+      "item": [
+        "Quasar Shard"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Zealot Baby"
+      "item": [
+        "Zealot Baby"
+      ]
     }
   },
   {
@@ -597,35 +861,52 @@
     "y": 432,
     "unlocked": {
       "status": 0,
-      "item": "Deserter Heart"
+      "item": [
+        "Deserter Heart"
+      ]
     },
     "heart": {
       "status": 0,
-      "item": "Sibling Rivalry"
+      "item": [
+        "Sibling Rivalry"
+      ]
     },
     "bossRush": {
       "status": 0,
-      "item": "Business Card"
+      "item": [
+        "Business Card"
+      ]
     },
     "satan": {
       "status": 0,
-      "item": "Cheese Grater"
+      "item": [
+        "Cheese Grater"
+      ]
     },
     "isaac": {
       "status": 0,
-      "item": "Red King"
+      "item": [
+        "Red King"
+      ]
     },
     "blueBaby": {
       "status": 0,
-      "item": "Tank Boys"
+      "item": [
+        "Tank Boys"
+      ]
     },
     "greedier": {
       "status": 0,
-      "item": "Antimaterial Card"
+      "item": [
+        "Antimaterial Card"
+      ]
     },
     "all": {
       "status": 0,
-      "item": "Helicopter Boys"
+      "item": [
+        "Helicopter Boys",
+        "We Need To Go Sideways"
+      ]
     }
   }
 ]

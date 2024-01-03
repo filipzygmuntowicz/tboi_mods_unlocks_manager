@@ -104,6 +104,7 @@ function drawUnlocks(character, characterIndex) {
     unlocks.forEach(unlock => {
         //unlockDiv = document.getElementById(unlock)
         let unlockLi = document.createElement("li")
+        console.log(character[unlock].item)
         unlockLi.innerHTML = `<input type="checkbox"><p>${unlocksToDescription[unlock]} <em>(${character[unlock].item})</em></p>`
         unlockLi.childNodes[0].addEventListener("change", function(){editData(unlock, characterIndex)})
         if (character[unlock].status == 1) {

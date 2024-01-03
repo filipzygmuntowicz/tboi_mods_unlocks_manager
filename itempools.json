@@ -1,0 +1,892 @@
+{
+  "treasure": [
+    {
+      "Name": "Rubik's Cube",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Magic Pen",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Bag-o-Trash",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Cherry Friends",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Tower of Babel",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Gusty Blood",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Red Bomber",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "A Cat In the Box",
+      "Weight": "0.25",
+      "DecreaseBy": "0.25",
+      "RemoveOn": "0.025"
+    },
+    {
+      "Name": "Nerve Pinch",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Sibling Rivalry",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Stargazer's Hat",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Rejection",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Friendly Sack",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Ultra Flesh Kid!",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Vault of Havoc",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Bottomless Bag",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Dead Weight",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Keeper's Annoying Fly",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "shop": [
+    {
+      "Name": "Ceiling with the Stars",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "2+1",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Cheese Grater",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Mother's Love",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Keeper's Penny",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    },
+    {
+      "Name": "Auction Gavel",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    },
+    {
+      "Name": "Hand-Me-Downs",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Magic Marker",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Stargazer's Hat",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Handicapped Placard",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Birth Certificate",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    },
+    {
+      "Name": "Bag of Jewels",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    }
+  ],
+  "boss": [
+    {
+      "Name": "Sinner's Heart",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    }
+  ],
+  "devil": [
+    {
+      "Name": "Sinner's Heart",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    },
+    {
+      "Name": "The Mark of Cain",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Enraged Soul",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Ceremonial Blade",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Quasar",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    },
+    {
+      "Name": "Gusty Blood",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Red King",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "The Cross of Chaos",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "angel": [
+    {
+      "Name": "Cherubim",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "A Bird of Hope",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Quasar",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    },
+    {
+      "Name": "The Book of Genesis ",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Soul Bond",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Angel's Wings",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Pure Soul",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Book of Judges",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Spiritual Amends",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "secret": [
+    {
+      "Name": "Temper Tantrum",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Red Map",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "DNA Redactor",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Bless of the Dead",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Keeper's Penny",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Bottomless Bag",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Birth Certificate",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Ordinary Life",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "The Hood",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Bag of Jewels",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "We Need To Go Sideways",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Dead Weight",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "library": [
+    {
+      "Name": "The Book of Genesis ",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    },
+    {
+      "Name": "Book of Leviathan",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Book of Judges",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "goldenChest": [
+    {
+      "Name": "Black Doll",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "redChest": [
+    {
+      "Name": "Black Doll",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "We Need To Go Sideways",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "beggar": [
+    {
+      "Name": "Bag-o-Trash",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Hand-Me-Downs",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "demonBeggar": [
+    {
+      "Name": "Cookie Cutter",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "A Scalpel",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Cookie Cutter",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "curse": [
+    {
+      "Name": "Cookie Cutter",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "The Mark of Cain",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Black Doll",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Blood Vessel",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    },
+    {
+      "Name": "A Scalpel",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Red Map",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    },
+    {
+      "Name": "Vault of Havoc",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    }
+  ],
+  "keyMaster": [
+    {
+      "Name": "Rubik's Cube",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "batteryBum": [
+    {
+      "Name": "Rubik's Cube",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "momsChest": [
+    {
+      "Name": "Rubik's Cube",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "craneGame": [
+    {
+      "Name": "Rubik's Cube",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Magic Pen",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Tower of Babel",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Auction Gavel",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Magic Marker",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "bombBum": [
+    {
+      "Name": "Red Bomber",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "planetarium": [
+    {
+      "Name": "Ordinary Life",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    }
+  ],
+  "oldChest": [
+    {
+      "Name": "Ordinary Life",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    }
+  ],
+  "babyShop": [
+    {
+      "Name": "Cherubim",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Bag-o-Trash",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Sibling Rivalry",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Friendly Sack",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Ultra Flesh Kid!",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Dead Weight",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Keeper's Annoying Fly",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "woodenChest": [
+    {
+      "Name": "Auction Gavel",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "rottenBeggar": [
+    {
+      "Name": "Cherry Friends",
+      "Weight": "1",
+      "DecreaseBy": "0.4",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "ultraSecret": [
+    {
+      "Name": "Cherry Friends",
+      "Weight": "1",
+      "DecreaseBy": "0.4",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Gusty Blood",
+      "Weight": "1",
+      "DecreaseBy": "0.4",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Red Bomber",
+      "Weight": "1",
+      "DecreaseBy": "0.4",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Red Map",
+      "Weight": "1",
+      "DecreaseBy": "0.4",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Mother's Love",
+      "Weight": "1",
+      "DecreaseBy": "0.4",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "The Mark of Cain",
+      "Weight": "1",
+      "DecreaseBy": "0.4",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Quasar",
+      "Weight": "1",
+      "DecreaseBy": "0.4",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Temper Tantrum",
+      "Weight": "1",
+      "DecreaseBy": "0.4",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "The Cross of Chaos",
+      "Weight": "1",
+      "DecreaseBy": "0.4",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Ultra Flesh Kid!",
+      "Weight": "1",
+      "DecreaseBy": "0.4",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Vault of Havoc",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "We Need To Go Sideways",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "greedTreasure": [
+    {
+      "Name": "Rubik's Cube",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Magic Pen",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Bag-o-Trash",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Gusty Blood",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Red Bomber",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Nerve Pinch",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Sibling Rivalry",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Ultra Flesh Kid!",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Vault of Havoc",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Dead Weight",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Keeper's Annoying Fly",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Rubik's Cube",
+      "Weight": "1",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "greedBoss": [
+    {
+      "Name": "Rubik's Cube",
+      "Weight": "1",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "greedShop": [
+    {
+      "Name": "Rubik's Cube",
+      "Weight": "1",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Mother's Love",
+      "Weight": "1",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Auction Gavel",
+      "Weight": "1",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "2+1",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Magic Marker",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Handicapped Placard",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Bag of Jewels",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "greedDevil": [
+    {
+      "Name": "Sinner's Heart",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    },
+    {
+      "Name": "The Mark of Cain",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Enraged Soul",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Ceremonial Blade",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Gusty Blood",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "The Cross of Chaos",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ],
+  "greedAngel": [
+    {
+      "Name": "Cherubim",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Quasar",
+      "Weight": "0.5",
+      "DecreaseBy": "0.5",
+      "RemoveOn": "0.05"
+    },
+    {
+      "Name": "Angel's Wings",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    }
+  ]
+}
