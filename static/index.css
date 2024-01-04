@@ -1,6 +1,6 @@
 @font-face {
     font-family: "CustomFont";
-    src: url('./static/IsaacGame.ttf');
+    src: url('./IsaacGame.ttf');
 }
 *{
     margin:0;
@@ -36,7 +36,7 @@ body {
 #doodles {
     position: relative;
     left: 70%;
-    top: 5%;
+    top: 1.5rem;
     z-index: -2;
 }
 #whoami {
@@ -49,7 +49,7 @@ body {
 #whoamiText {
     position: absolute;
     z-index: -1;
-    top: 7%;
+    top: 2.5rem;
     font-size: 2.5rem;
     font-weight: bolder;
     font-stretch: ultra-expanded;
@@ -76,7 +76,7 @@ body {
     position: relative;
     width: 100px;
     height: 100px;
-    background: url('./static/completion_list_blank.png') 0px 0px;
+    background: url('./completion_list_blank.png') 0px 0px;
 }
 #heart {
     position: absolute;
@@ -84,7 +84,7 @@ body {
     top: 12%;
     width: 17px;
     height: 17px;
-    background: url('./static/completion_widget.png') -63px -95px;
+    background: url('./completion_widget.png') -63px -95px;
     display: none;
 }
 #bossRush {
@@ -93,7 +93,7 @@ body {
     top: 44%;
     width: 17px;
     height: 17px;
-    background: url('./static/completion_widget.png') -80px -95px;
+    background: url('./completion_widget.png') -80px -95px;
     display: none;
 }
 #satan {
@@ -102,7 +102,7 @@ body {
     top: 28%;
     width: 17px;
     height: 17px;
-    background: url('./static/completion_widget.png') -47px -95px;
+    background: url('./completion_widget.png') -47px -95px;
     display: none;
 }
 #isaac {
@@ -111,7 +111,7 @@ body {
     top: 22%;
     width: 17px;
     height: 17px;
-    background: url('./static/completion_widget.png') -31px -95px;
+    background: url('./completion_widget.png') -31px -95px;
     display: none;
 }
 #blueBaby {
@@ -120,7 +120,7 @@ body {
     top: 26%;
     width: 16px;
     height: 16px;
-    background: url('./static/completion_widget.png') 0px -95px;
+    background: url('./completion_widget.png') 0px -95px;
     display: none;
 }
 #greedier {
@@ -129,7 +129,7 @@ body {
     top: 22%;
     width: 16px;
     height: 16px;
-    background: url('./static/completion_widget.png') -145px -95px;
+    background: url('./completion_widget.png') -145px -95px;
     display: none;
 }
 #unlocksDiv {
@@ -160,7 +160,7 @@ li {
 #headerDiv {
     position: relative;
     text-align: center;
-    font-size: 1.6rem;
+    font-size: 1.1rem;
     color: rgb(55,43,45);
 }
 #paper {
@@ -170,20 +170,27 @@ li {
 #buttonReset {
     cursor: pointer;
     position: absolute;
-    top: 32%;
-    width: 50%;
+    top: 35%;
+    width: 33%;
     left: 0;
+}
+#buttonUnlockAll {
+    cursor: pointer;
+    position: absolute;
+    top: 35%;
+    width: 33%;
+    left: 33%;
 }
 #buttonUpdate {
     cursor: pointer;
     position: absolute;
-    top: 32%;
-    width: 50%;
-    left: 50%;
+    top: 35%;
+    width: 33%;
+    left: 66%;
 }
-#buttonUpdate:hover, #buttonReset:hover {
+#buttonUpdate:hover, #buttonReset:hover, #buttonUnlockAll:hover {
     color: rgba(76, 59, 62, 0.854);
-    font-size: 1.65rem;
+    font-size: 1.2rem;
 }
 #todolist {
     position: absolute;
@@ -191,4 +198,12 @@ li {
     width: 100%;
     top: 0;
     height: auto;
+}
+#checkboxText {
+    cursor: pointer;
+    user-select: none;
+}
+em {
+    cursor: text;
+    user-select: text;
 }

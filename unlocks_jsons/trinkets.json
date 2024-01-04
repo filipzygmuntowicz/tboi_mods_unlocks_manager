@@ -1,0 +1,102 @@
+{
+    "Basement Key": {
+        "description": "Open your memories",
+        "gfx": "t01_basementkey.png",
+        "tags": "nogreed"
+    },
+    "Key to the Heart": {
+        "description": "...is the ribcage",
+        "gfx": "t02_keytotheheart.png",
+        "tags": "nogreed"
+    },
+    "Sleight of Hand": {
+        "description": "Faster than you'd think!",
+        "gfx": "t03_sleightofhand.png"
+    },
+    "Trick Penny": {
+        "description": "Wealth of risk",
+        "gfx": "t04_trickpenny.png"
+    },
+    "Judas' Kiss": {
+        "description": "On the cheek",
+        "gfx": "t05_judaskiss.png"
+    },
+    "Key Knife": {
+        "description": "Slice your enemies",
+        "gfx": "t19_keyknife.png"
+    },
+    "Night Soil": {
+        "description": "Ew..",
+        "gfx": "t14_nightsoil.png",
+        "tags": "lazarussharedglobal"
+    },
+    "Adam's Rib": {
+        "description": "Children of God",
+        "gfx": "t13_adamsrib.png"
+    },
+    "Magic Sword": {
+        "description": ":-)",
+        "gfx": "t10_magicsword.png",
+        "cache": "damage"
+    },
+    "Torn Page": {
+        "description": "There's gold in them books!",
+        "gfx": "t15_tornpage.png"
+    },
+    "Angel's Crown": {
+        "description": "All virtues are awarded",
+        "gfx": "t07_angelscrown.png",
+        "tags": "lazarussharedglobal"
+    },
+    "Eden's Lock": {
+        "description": "???",
+        "gfx": "t12_edenslock.png"
+    },
+    "A Piece of Chalk": {
+        "description": "Stay out, unholy!",
+        "gfx": "t09_pieceofchalk.png",
+        "tags": "nogreed"
+    },
+    "Baby Shoes": {
+        "description": "So tiny",
+        "gfx": "t18_babyshoes.png"
+    },
+    "Greed's Heart": {
+        "description": "Coin up",
+        "gfx": "t06_greedsheart.png"
+    },
+    "Shattered Stone": {
+        "description": "Shard of calamity",
+        "gfx": "t20_shatteredstone.png"
+    },
+    "Bone Meal": {
+        "description": "Your bones grow stronger",
+        "gfx": "t16_bonemeal.png",
+        "persistent": "true"
+    },
+    "Empty Page": {
+        "description": "Write on it",
+        "gfx": "t17_emptypage.png"
+    },
+    "Cracked Cross": {
+        "description": "Some fear you",
+        "gfx": "t21_crackedcross.png",
+        "tags": "nogreed"
+    },
+    "My Soul": {
+        "description": "Spiritual companionship",
+        "gfx": "t22_mysoul.png",
+        "cache": "familiars"
+    },
+    "Heavenly Keys": {
+        "description": "What could THEY open?",
+        "gfx": "t24_heavenlykeys.png"
+    },
+    "Jewel Diadem": {
+        "description": "Better jewelry",
+        "gfx": "t23_jeweldiadem.png"
+    },
+    "Wait, No!": {
+        "gfx": "t11_waitno.png"
+    }
+}

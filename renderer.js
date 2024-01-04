@@ -1,8 +1,5 @@
-//console.log(characters.find((char) => char.name == "Isaac"));
-
 window.onload = async () => {
-    console.log(await window.electronAPI.getJson())
-    characters = await window.electronAPI.getJson()
+    let characters = await window.electronAPI.getJson()
     window.characters = characters
 
     let charactersDiv = document.getElementById("characters")
@@ -29,14 +26,19 @@ window.onload = async () => {
 
 
 document.getElementById("buttonReset").addEventListener("click", function(){resetUnlocks()});
-document.getElementById("buttonUpdate").addEventListener("click", function(){updateUnlocks()});
+document.getElementById("buttonUnlockAll").addEventListener("click", function(){unlockAll()});
+document.getElementById("buttonUpdate").addEventListener("click", function(){applyToMod()});
 
 function resetUnlocks() {
-    if (!confirm("Are you sure you want to lock every unlock? This will NOT influence your game, only the manager.")) {
+    if (!confirm("Are you sure?")) {
         return false
     }
     window.characters.forEach(character => {
-        unlocks.forEach(unlock => {
+        let characterUnlocks = unlocks
+        if (character.name == "Special") {
+            characterUnlocks = specialUnlocks
+        }
+        characterUnlocks.forEach(unlock => {
             character[unlock].status = 0; 
         })
     })
@@ -46,8 +48,30 @@ function resetUnlocks() {
     save()
 }
 
-function updateUnlocks() {
-    alert("placeholder")
+function unlockAll() {
+    if (!confirm("Are you sure?")) {
+        return false
+    }
+    window.characters.forEach(character => {
+        let characterUnlocks = unlocks
+        if (character.name == "Special") {
+            characterUnlocks = specialUnlocks
+        }
+        characterUnlocks.forEach(unlock => {
+            character[unlock].status = 1; 
+        })
+    })
+    if (currentlySelectedCharacter.characterDiv) {
+        currentlySelectedCharacter.characterDiv.click()
+    }
+    save()
+}
+
+function applyToMod() {
+    if (!confirm("Are you sure?")) {
+        return false
+    }
+    window.electronAPI.applyToMod(window.characters)
 }
 
 let currentlySelectedCharacter = {
@@ -64,6 +88,16 @@ let unlocks = [
     "greedier",
     "all"
 ]
+
+let specialUnlocks = [
+    "Stargazer",
+    "Coffin", 
+    "Flesh Chest", 
+    "Scarlet Chest", 
+    "Black Chest", 
+    "Birth Certificate"
+]
+
 let unlocksToDescription = {
     "unlocked": "Unlock the character",
     "heart": "Defeat Mom's Heart",
@@ -72,14 +106,32 @@ let unlocksToDescription = {
     "isaac": "Defeat Isaac",
     "blueBaby": "Defeat ???",
     "greedier": "Defeat Ultra Greed",
-    "all": "Earn all repentance marks with the character"
+    "all": "Earn all repentance marks with the character",
+    "Stargazer": "Enter a Planetarium 3 times",
+    "Coffin": "Enter a Secret Room 10 times",
+    "Flesh Chest": "Enter a Curse Room 10 times",
+    "Scarlet Chest": "Enter an Ultra Secret Room 3 times",
+    "Black Chest": "Enter a Devil Room 5 times",
+    "Birth Certificate": "Earn all other Repentance Plus unlocks"
 }
 
 function save() {
     window.electronAPI.saveJson(window.characters)
 }
 
-function editData(unlock, characterIndex) {
+function changeInput(input) {
+    if (input.checked) {
+        input.checked = false
+    } else {
+        input.checked = true
+    }
+}
+function editData(event, unlock, characterIndex) {
+    if (event.target.tagName == "P") {
+        changeInput(event.target.parentElement.childNodes[0])
+    } else if (event.target.tagName == "EM") {
+        return false
+    }
     let checkmark = document.getElementById(unlock)
     if (window.characters[characterIndex][unlock].status == 1) {
         window.characters[characterIndex][unlock].status = 0
@@ -95,18 +147,37 @@ function editData(unlock, characterIndex) {
     save()
 }
 
+function parseItems(items) {
+    itemsString = ""
+    for (let [index, item] of items.entries()){
+        if (index != 0) {
+            itemsString = itemsString + ", "
+        }
+        if (index == 3) {
+            itemsString = itemsString + "..."
+            break;
+        }
+        itemsString = itemsString + item
+    }
+    return itemsString
+}
 function drawUnlocks(character, characterIndex) {
     //completion = document.getElementById("completion")
     
     document.getElementById("characterName").innerText = character.name.replace("blueBaby", "???").toUpperCase()
     let unlockMarksUl = document.createElement("ul")
     unlockMarksUl.id = "unlockMarksUl"
-    unlocks.forEach(unlock => {
+    let characterUnlocks = unlocks
+    if (character.name == "Special") {
+        characterUnlocks = specialUnlocks
+        document.getElementById("unlocksDiv").style.display = "none"
+    }
+    characterUnlocks.forEach(unlock => {
+        console.log(unlock)
         //unlockDiv = document.getElementById(unlock)
         let unlockLi = document.createElement("li")
-        console.log(character[unlock].item)
-        unlockLi.innerHTML = `<input type="checkbox"><p>${unlocksToDescription[unlock]} <em>(${character[unlock].item})</em></p>`
-        unlockLi.childNodes[0].addEventListener("change", function(){editData(unlock, characterIndex)})
+        //console.log(character[unlock].item)
+        unlockLi.innerHTML = `<input type="checkbox"><p id="checkboxText">${unlocksToDescription[unlock]} <em>(${parseItems(character[unlock].item)})</em></p>`
         if (character[unlock].status == 1) {
             let unlockDiv = document.getElementById(unlock)
             if (unlockDiv) {
@@ -117,6 +188,9 @@ function drawUnlocks(character, characterIndex) {
         else {
             unlockLi.childNodes[0].checked = false
         }
+
+        unlockLi.childNodes[0].addEventListener('change', (event) => editData(event, unlock, characterIndex));
+        unlockLi.childNodes[1].addEventListener('click', (event) => editData(event, unlock, characterIndex));
         
         unlockMarksUl.appendChild(unlockLi)
     })

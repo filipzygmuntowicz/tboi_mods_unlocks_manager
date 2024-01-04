@@ -31,6 +31,18 @@
       "RemoveOn": "0.1"
     },
     {
+      "Name": "Helicopter Boys",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Tank Boys",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
       "Name": "Gusty Blood",
       "Weight": "1",
       "DecreaseBy": "1",
@@ -183,14 +195,7 @@
       "RemoveOn": "0.05"
     }
   ],
-  "boss": [
-    {
-      "Name": "Sinner's Heart",
-      "Weight": "0.5",
-      "DecreaseBy": "0.5",
-      "RemoveOn": "0.05"
-    }
-  ],
+  "boss": [],
   "devil": [
     {
       "Name": "Sinner's Heart",
@@ -311,12 +316,6 @@
       "RemoveOn": "0.1"
     },
     {
-      "Name": "DNA Redactor",
-      "Weight": "1",
-      "DecreaseBy": "1",
-      "RemoveOn": "0.1"
-    },
-    {
       "Name": "Bless of the Dead",
       "Weight": "1",
       "DecreaseBy": "1",
@@ -391,14 +390,7 @@
       "RemoveOn": "0.1"
     }
   ],
-  "goldenChest": [
-    {
-      "Name": "Black Doll",
-      "Weight": "1",
-      "DecreaseBy": "1",
-      "RemoveOn": "0.1"
-    }
-  ],
+  "goldenChest": [],
   "redChest": [
     {
       "Name": "Black Doll",
@@ -491,30 +483,9 @@
       "RemoveOn": "0.05"
     }
   ],
-  "keyMaster": [
-    {
-      "Name": "Rubik's Cube",
-      "Weight": "1",
-      "DecreaseBy": "1",
-      "RemoveOn": "0.1"
-    }
-  ],
-  "batteryBum": [
-    {
-      "Name": "Rubik's Cube",
-      "Weight": "1",
-      "DecreaseBy": "1",
-      "RemoveOn": "0.1"
-    }
-  ],
-  "momsChest": [
-    {
-      "Name": "Rubik's Cube",
-      "Weight": "1",
-      "DecreaseBy": "1",
-      "RemoveOn": "0.1"
-    }
-  ],
+  "keyMaster": [],
+  "batteryBum": [],
+  "momsChest": [],
   "craneGame": [
     {
       "Name": "Rubik's Cube",
@@ -555,14 +526,7 @@
       "RemoveOn": "0.1"
     }
   ],
-  "planetarium": [
-    {
-      "Name": "Ordinary Life",
-      "Weight": "0.5",
-      "DecreaseBy": "0.5",
-      "RemoveOn": "0.05"
-    }
-  ],
+  "planetarium": [],
   "oldChest": [
     {
       "Name": "Ordinary Life",
@@ -580,6 +544,18 @@
     },
     {
       "Name": "Bag-o-Trash",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Tank Boys",
+      "Weight": "1",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Helicopter Boys",
       "Weight": "1",
       "DecreaseBy": "1",
       "RemoveOn": "0.1"
@@ -623,14 +599,7 @@
       "RemoveOn": "0.1"
     }
   ],
-  "rottenBeggar": [
-    {
-      "Name": "Cherry Friends",
-      "Weight": "1",
-      "DecreaseBy": "0.4",
-      "RemoveOn": "0.1"
-    }
-  ],
+  "rottenBeggar": [],
   "ultraSecret": [
     {
       "Name": "Cherry Friends",
@@ -777,16 +746,21 @@
       "Weight": "1",
       "DecreaseBy": "0.5",
       "RemoveOn": "0.1"
-    }
-  ],
-  "greedBoss": [
+    },
     {
-      "Name": "Rubik's Cube",
+      "Name": "Helicopter Boys",
       "Weight": "1",
-      "DecreaseBy": "0.5",
+      "DecreaseBy": "1",
+      "RemoveOn": "0.1"
+    },
+    {
+      "Name": "Tank Boys",
+      "Weight": "1",
+      "DecreaseBy": "1",
       "RemoveOn": "0.1"
     }
   ],
+  "greedBoss": [],
   "greedShop": [
     {
       "Name": "Rubik's Cube",

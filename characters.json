@@ -18,7 +18,7 @@
     "bossRush": {
       "status": 0,
       "item": [
-        "UNO Reverse Card"
+        "Reverse Card"
       ]
     },
     "satan": {
@@ -59,19 +59,20 @@
     "unlocked": {
       "status": 0,
       "item": [
-        "Dauntless Heart"
+        "Dauntless Heart",
+        "Half Dauntless Heart"
       ]
     },
     "heart": {
       "status": 0,
       "item": [
-        "Key To The Heart"
+        "Key to the Heart"
       ]
     },
     "bossRush": {
       "status": 0,
       "item": [
-        "Queen Of Diamonds"
+        "Queen of Diamonds"
       ]
     },
     "satan": {
@@ -89,20 +90,21 @@
     "blueBaby": {
       "status": 0,
       "item": [
-        "Blood Vessels"
+        "Blood Vessel"
       ]
     },
     "greedier": {
       "status": 0,
       "item": [
-        "Needle And Thread"
+        "Needle and Thread"
       ]
     },
     "all": {
       "status": 0,
       "item": [
         "Dauntless Baby",
-        "Blood Vessel"
+        "Blood Vessel",
+        "Stomack"
       ]
     }
   },
@@ -125,7 +127,7 @@
     "bossRush": {
       "status": 0,
       "item": [
-        "Jack Of Diamonds"
+        "Jack of Diamonds"
       ]
     },
     "satan": {
@@ -143,7 +145,7 @@
     "blueBaby": {
       "status": 0,
       "item": [
-        "Sleight Of Hand"
+        "Sleight of Hand"
       ]
     },
     "greedier": {
@@ -155,7 +157,10 @@
     "all": {
       "status": 0,
       "item": [
-        "Heavenly Keys"
+        "Heavenly Keys",
+        "Golden Card",
+        "Golden Sack",
+        "Hoarder Baby"
       ]
     }
   },
@@ -208,7 +213,8 @@
     "all": {
       "status": 0,
       "item": [
-        "Funeral Services?"
+        "Funeral Services?",
+        "Deceiver Baby"
       ]
     }
   },
@@ -231,7 +237,8 @@
     "bossRush": {
       "status": 0,
       "item": [
-        "Fly Paper"
+        "Hand-Me-Downs",
+        "Flypaper"
       ]
     },
     "satan": {
@@ -261,7 +268,8 @@
     "all": {
       "status": 0,
       "item": [
-        "Soiled Baby"
+        "Soiled Baby",
+        "Suppository"
       ]
     }
   },
@@ -284,7 +292,7 @@
     "bossRush": {
       "status": 0,
       "item": [
-        "Queen of Spades"
+        "Bedside Queen"
       ]
     },
     "satan": {
@@ -325,7 +333,8 @@
     "unlocked": {
       "status": 0,
       "item": [
-        "Savage Heart"
+        "Savage Heart",
+        "Wait, No!"
       ]
     },
     "heart": {
@@ -382,7 +391,7 @@
       ]
     },
     "heart": {
-      "status": 1,
+      "status": 0,
       "item": [
         "Angel's Crown"
       ]
@@ -406,22 +415,24 @@
       ]
     },
     "blueBaby": {
-      "status": 1,
+      "status": 0,
       "item": [
         "Book of Leviathan"
       ]
     },
     "greedier": {
-      "status": 1,
+      "status": 0,
       "item": [
-        "Demon Form + Fiend Fire"
+        "Demon Form",
+        "Fiend Fire"
       ]
     },
     "all": {
-      "status": 1,
+      "status": 0,
       "item": [
         "Cracked Cross",
-        "Dark Remnants"
+        "Dark Remnants",
+        "Benighted Baby"
       ]
     }
   },
@@ -468,13 +479,15 @@
     "greedier": {
       "status": 0,
       "item": [
-        "Yum! + Yuck!"
+        "Yum!",
+        "Yuck!"
       ]
     },
     "all": {
       "status": 0,
       "item": [
-        "White Sacks"
+        "White Sack",
+        "Enigma Baby"
       ]
     }
   },
@@ -497,7 +510,7 @@
     "bossRush": {
       "status": 0,
       "item": [
-        "Valentine's Day Card"
+        "Valentine's Card"
       ]
     },
     "satan": {
@@ -544,7 +557,7 @@
     "heart": {
       "status": 0,
       "item": [
-        "Piece of Chalk"
+        "A Piece of Chalk"
       ]
     },
     "bossRush": {
@@ -581,7 +594,8 @@
       "status": 0,
       "item": [
         "My Soul",
-        "Spiritual Amends"
+        "Spiritual Amends",
+        "Baleful Baby"
       ]
     }
   },
@@ -694,7 +708,7 @@
   },
   {
     "name": "Apollyon",
-    "x": 381,
+    "x": 385,
     "y": 926,
     "unlocked": {
       "status": 0,
@@ -715,19 +729,19 @@
       ]
     },
     "satan": {
-      "status": 1,
+      "status": 0,
       "item": [
         "Sinner's Heart"
       ]
     },
     "isaac": {
-      "status": 1,
+      "status": 0,
       "item": [
         "Bottomless Bag"
       ]
     },
     "blueBaby": {
-      "status": 1,
+      "status": 0,
       "item": [
         "Vault of Havoc"
       ]
@@ -735,7 +749,8 @@
     "greedier": {
       "status": 0,
       "item": [
-        "Red Rune + Tainted Rocks"
+        "Red Rune",
+        "Tainted Rocks"
       ]
     },
     "all": {
@@ -788,7 +803,7 @@
     "greedier": {
       "status": 0,
       "item": [
-        "Funeral Services"
+        "Funeral Service"
       ]
     },
     "all": {
@@ -797,8 +812,16 @@
         "The Hood",
         "Jewel Diadem",
         "Bag of Jewels",
-        "Jewel Crawlers",
-        "Dead Weight"
+        "Jewel Crawler (Random)",
+        "Dead Weight",
+        "Apple of Pride",
+        "Flower of Lust",
+        "Mask of Envy",
+        "Acid of Sloth",
+        "Canine of Wrath",
+        "Void of Gluttony",
+        "Crown of Greed",
+        "Fettered Baby"
       ]
     }
   },
@@ -851,7 +874,9 @@
     "all": {
       "status": 0,
       "item": [
-        "Zealot Baby"
+        "Zealot Baby",
+        "Hearttery (Soul)",
+        "Hearttery (Red)"
       ]
     }
   },
@@ -862,7 +887,7 @@
     "unlocked": {
       "status": 0,
       "item": [
-        "Deserter Heart"
+        "Deserted Heart"
       ]
     },
     "heart": {
@@ -905,7 +930,49 @@
       "status": 0,
       "item": [
         "Helicopter Boys",
-        "We Need To Go Sideways"
+        "We Need To Go Sideways",
+        "Deserter Baby"
+      ]
+    }
+  },
+  {
+    "name": "Special",
+    "x": 418,
+    "y": 590,
+    "Stargazer": {
+      "status": 0,
+      "item": [
+        "Stargazer"
+      ]
+    },
+    "Coffin": {
+      "status": 0,
+      "item": [
+        "Coffin"
+      ]
+    },
+    "Flesh Chest": {
+      "status": 0,
+      "item": [
+        "Flesh Chest"
+      ]
+    },
+    "Scarlet Chest": {
+      "status": 0,
+      "item": [
+        "Scarlet Chest"
+      ]
+    },
+    "Black Chest": {
+      "status": 0,
+      "item": [
+        "Black Chest"
+      ]
+    },
+    "Birth Certificate": {
+      "status": 0,
+      "item": [
+        "Birth Certificate"
       ]
     }
   }

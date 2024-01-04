@@ -1,0 +1,70 @@
+{
+    "Broken Baby": {
+        "id": "1001",
+        "skin": "01_brokenbaby.png"
+    },
+    "Dauntless Baby": {
+        "id": "1002",
+        "skin": "02_dauntlessbaby.png"
+    },
+    "Hoarder Baby": {
+        "id": "1003",
+        "skin": "03_hoarderbaby.png"
+    },
+    "Deceiver Baby": {
+        "id": "1004",
+        "skin": "04_deceiverbaby.png"
+    },
+    "Soiled Baby": {
+        "id": "1005",
+        "skin": "05_soiledbaby.png"
+    },
+    "Curdled Baby": {
+        "id": "1006",
+        "skin": "06_curdledbaby.png"
+    },
+    "Savage Baby": {
+        "id": "1007",
+        "skin": "07_savagebaby.png"
+    },
+    "Benighted Baby": {
+        "id": "1008",
+        "skin": "08_benightedbaby.png"
+    },
+    "Enigma Baby": {
+        "id": "1009",
+        "skin": "09_enigmababy.png"
+    },
+    "Capricious Baby": {
+        "id": "1010",
+        "skin": "10_capriciousbaby.png"
+    },
+    "Baleful Baby": {
+        "id": "1011",
+        "skin": "11_balefulbaby.png"
+    },
+    "Harlot Baby": {
+        "id": "1012",
+        "skin": "12_harlotbaby.png"
+    },
+    "Miser Baby": {
+        "id": "1013",
+        "skin": "13_miserbaby.png"
+    },
+    "Empty Baby": {
+        "id": "1014",
+        "skin": "14_emptybaby.png"
+    },
+    "Fettered Baby": {
+        "id": "1015",
+        "skin": "15_fetteredbaby.png"
+    },
+    "Zealot Baby": {
+        "id": "1016",
+        "skin": "16_zealotbaby.png"
+    },
+    "Deserter Baby": {
+        "id": "1017",
+        "skin": "17_deserterbaby.png"
+    }
+}
